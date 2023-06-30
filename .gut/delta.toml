@@ -1,0 +1,9 @@
+template = ""
+rev_id = 17
+template_sha = "3cf300a0d1a1c3b573fba67d467fe6a21f1593d5"
+
+[replacements]
+__LICENSE__ = "MIT"
+__UND2C__ = "sje"
+__UNDEFINED__ = "Pite Sami"
+__UND__ = "sje"
