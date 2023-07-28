@@ -733,7 +733,7 @@ transforms:
 
 keyNames:
   space: gasska
-#awaiting confirmation:  return: "linnja\u00ADmållsum" # your word for "return", or use ⏎ or the string "symbol", for some or all variants
+  return: "linnja\u00ADmållsum" # your word for "return", or use ⏎ or the string "symbol", for some or all variants
 #  return-alts:
 #    search: åtså  # when pressing the return key triggers a search
 #    go: mana  # when pressing the return key goes to or opens a URL
@@ -743,10 +743,10 @@ keyNames:
 #    continue: åvvdån  # when pressing the return key continues a process
 #    done: fierok      # when pressing the return key finishes a process
 #    emergency: nieđđa # when pressing the return key triggers an emergency call
-#awaiting confirmation:#    next: båhtej           # when pressing the return key takes you to the next field or similar
+#    next: maŋep           # when pressing the return key takes you to the next field or similar
 #    route: gejnudak         # when pressing the return key finds a route or some direction to go
-#awaiting confirmation:#  undo: your-word-for-undo # or "symbol"
-#awaiting confirmation:#  redo: your-word-for-redo # or "symbol"
+#  undo: máhtsa # or "symbol"
+#  redo: daga mubbádist # or "symbol"
 
 # When the string "symbol" is specified above, an OS specific symbol is used. For "return" that is typically ⏎,
 # for the other keys it is other symbols. "symbol" can be used both in cases where the word is too long to fit
