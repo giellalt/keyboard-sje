@@ -1,6 +1,6 @@
 template = ""
-rev_id = 17
-template_sha = "3cf300a0d1a1c3b573fba67d467fe6a21f1593d5"
+rev_id = 18
+template_sha = "3dc402e19368b65f5a7ecb7490d8669cc2537134"
 
 [replacements]
 __LICENSE__ = "MIT"
