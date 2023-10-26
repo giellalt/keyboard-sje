@@ -10,21 +10,21 @@ android:
   primary:
     layers:
       default: |
-        á        q e r t y u i o p å
+        á        w e r t y u i o p å
         a        s d f g h j k l ö ä
         \s{shift} z x c v b n m ŋ \s{backspace}
       shift: |
-        Á        Q E R T Y U I O P Å
+        Á        W E R T Y U I O P Å
         A        S D F G H J K L Ö Ä
         \s{shift} Z X C V B N M Ŋ \s{backspace}
   tablet-600:
     layers:
       default: |
-        á        q e r t y u i o p å
+        á        w e r t y u i o p å
         a        s d f g h j k l ö ä
         \s{shift} z x c v b n m ŋ \s{backspace}
       shift: |
-        Á        Q E R T Y U I O P Å
+        Á        W E R T Y U I O P Å
         A        S D F G H J K L Ö Ä
         \s{shift} Z X C V B N M Ŋ \s{backspace}
 
@@ -35,11 +35,11 @@ iOS:
   primary:
     layers:
       default: |
-        á                             q e r t y u i o p å
+        á                             w e r t y u i o p å
         a                             s d f g h j k l ö ä
         \s{shift:1.25} \s{spacer:0.25} z x c v b n m ŋ \s{spacer:0.25} \s{backspace:1.25}
       shift: |
-        Á                             Q E R T Y U I O P Å
+        Á                             W E R T Y U I O P Å
         A                             S D F G H J K L Ö Ä
         \s{shift:1.25} \s{spacer:0.25} Z X C V B N M Ŋ \s{spacer:0.25} \s{backspace:1.25}
       symbols-1: |
