@@ -10,22 +10,22 @@ android:
   primary:
     layers:
       default: |
-        á        ŧ e r t y u i o p å
-        a        s d f g h j k l đ ä
+        á        q e r t y u i o p å
+        a        s d f g h j k l ö ä
         \s{shift} z x c v b n m ŋ \s{backspace}
       shift: |
-        Á        Ŧ E R T Y U I O P Å
-        A        S D F G H J K L Đ Ä
+        Á        Q E R T Y U I O P Å
+        A        S D F G H J K L Ö Ä
         \s{shift} Z X C V B N M Ŋ \s{backspace}
   tablet-600:
     layers:
       default: |
-        á        ŧ e r t y u i o p å
-        a        s d f g h j k l đ ä
+        á        q e r t y u i o p å
+        a        s d f g h j k l ö ä
         \s{shift} z x c v b n m ŋ \s{backspace}
       shift: |
-        Á        Ŧ E R T Y U I O P Å
-        A        S D F G H J K L Đ Ä
+        Á        Q E R T Y U I O P Å
+        A        S D F G H J K L Ö Ä
         \s{shift} Z X C V B N M Ŋ \s{backspace}
 
 iOS:
@@ -35,12 +35,12 @@ iOS:
   primary:
     layers:
       default: |
-        á                             ŧ e r t y u i o p å
-        a                             s d f g h j k l đ ä
+        á                             q e r t y u i o p å
+        a                             s d f g h j k l ö ä
         \s{shift:1.25} \s{spacer:0.25} z x c v b n m ŋ \s{spacer:0.25} \s{backspace:1.25}
       shift: |
-        Á                             Ŧ E R T Y U I O P Å
-        A                             S D F G H J K L Đ Ä
+        Á                             Q E R T Y U I O P Å
+        A                             S D F G H J K L Ö Ä
         \s{shift:1.25} \s{spacer:0.25} Z X C V B N M Ŋ \s{spacer:0.25} \s{backspace:1.25}
       symbols-1: |
         1 2 3 4 5 6 7 8 9 0
@@ -80,22 +80,22 @@ iOS:
     layers:
       default: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´ \s{backspace:1.5}
-        \s{spacer:1.5} á w e r t y u i o p å ŋ đ
+        \s{spacer:1.5} á w e r t y u i o p å ŋ ö
         \s{caps:1.75} a s d f g h j k l ø æ \s{return:1.75}
         \s{shift:1.25} ž z č c v b n m , . - \s{shift:2.25}
       shift: |
         § ! " # kr % & / ( ) = ? ` \s{backspace:1.5}
-        \s{spacer:1.5} Á W E R T Y U I O P Å Ŋ Đ
+        \s{spacer:1.5} Á W E R T Y U I O P Å Ŋ Ö
         \s{caps:1.75} A S D F G H J K L Ø Æ \s{return:1.75}
         \s{shift:1.25} Ž Z Č C V B N M ; : _ \s{shift:2.25}
       alt: |
         § ! " # kr % & / ( ) = ? ` \s{backspace:1.5}
-        \s{spacer:1.5} q w e r t y u i o p å ŋ đ
+        \s{spacer:1.5} q w e r t y u i o p å ŋ ö
         \s{caps:1.75} a s d f g h j k l ö ä \s{return:1.75}
         \s{shift:1.25} < z x c v b n m ; : _ \s{shift:2.25}
       alt+shift: |
         § ! " # kr % & / ( ) = ? ` \s{backspace:1.5}
-        \s{spacer:1.5} Q W E R T Y U I O P Å Ŋ Đ
+        \s{spacer:1.5} Q W E R T Y U I O P Å Ŋ Ö
         \s{caps:1.75} A S D F G H J K L Ö Ä \s{return:1.75}
         \s{shift:1.25} > Z X C V B N M ; : _ \s{shift:2.25}
       symbols-1: |
@@ -110,17 +110,17 @@ macOS:
       default: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´
           á w e r t y u i o p å ŋ
-          a s d f g h j k l ø æ đ
+          a s d f g h j k l ø æ ö
         ž z č c v b n m , . -
       shift: |
         § ! " # $ % & / ( ) = ? `
           Á W E R T Y U I O P Å Ŋ
-          A S D F G H J K L Ø Æ Đ
+          A S D F G H J K L Ø Æ Ö
         Ž Z Č C V B N M ; : _
       caps: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´
           Á W E R T Y U I O P Å Ŋ
-          A S D F G H J K L Ø Æ Đ
+          A S D F G H J K L Ø Æ Ö
         Ž Z Č C V B N M , . -
       alt: |
         ' © ™ £ € ˆ § | [ ] ˝ ± \u{301}
@@ -185,22 +185,22 @@ windows:
       default: |
         | 1 2 3 4 5 6 7 8 9 0 + \
         á w e r t y u i o p å ŋ
-        a s d f g h j k l ö ä đ
+        a s d f g h j k l ö ä ö
         ž z č c v b n m , . -
       shift: |
         § ! " # ¤ % & / ( ) = ? `
         Á W E R T Y U I O P Å Ŋ
-        A S D F G H J K L Ø Æ Đ
+        A S D F G H J K L Ø Æ Ö
         Ž Z Č C V B N M ; : _
       caps: |
         | 1 2 3 4 5 6 7 8 9 0 + \
         Á W E R T Y U I O P Å Ŋ
-        A S D F G H J K L Ø Æ Đ
+        A S D F G H J K L Ø Æ Ö
         Ž Z Č C V B N M , . -
       caps+shift: |
         § ! " # ¤ % & / ( ) = ? `
         á w e r t y u i o p å ŋ
-        a s d f g h j k l ø æ đ
+        a s d f g h j k l ø æ ö
         ž z č c v b n m ; : _
       alt: |
         \u{0} \u{0} @ £ $ € \u{0} { [ ] } \u{0} ´
@@ -227,22 +227,22 @@ chromeOS:
       default: |
         | 1 2 3 4 5 6 7 8 9 0 + \
         á w e r t y u i o p å ŋ
-        a s d f g h j k l ø æ đ
+        a s d f g h j k l ø æ ö
         ž z č c v b n m , . -
       shift: |
         § ! " # ¤ % & / ( ) = ? `
         Á W E R T Y U I O P Å Ŋ
-        A S D F G H J K L Ø Æ Đ
+        A S D F G H J K L Ø Æ Ö
         Ž Z Č C V B N M ; : _
       caps: |
         | 1 2 3 4 5 6 7 8 9 0 + \
         Á W E R T Y U I O P Å Ŋ
-        A S D F G H J K L Ø Æ Đ
+        A S D F G H J K L Ø Æ Ö
         Ž Z Č C V B N M , . -
       caps+shift: |
         § ! " # ¤ % & / ( ) = ? `
         á w e r t y u i o p å ŋ
-        a s d f g h j k l ø æ đ
+        a s d f g h j k l ø æ ö
         ž z č c v b n m ; : _
       alt: |
         \u{0} \u{0} @ £ $ € \u{0} { [ ] } \u{0} ´
@@ -306,8 +306,8 @@ transforms:
   '-':
     ' ': '-'
     b: ƀ
-    d: đ
-    D: Đ
+    d: ö
+    D: Ö
     g: ǥ
     G: Ǥ
     h: ħ
@@ -739,10 +739,10 @@ keyNames:
 #    go: mana  # when pressing the return key goes to or opens a URL
 #    send: säddi      # when pressing the return key sends e.g. an instant message
 #    join: siebra      # when pressing the return key joins a wifi net or similar
-#    cancel: buŧŧki  # when pressing the return key cancels an action
+#    cancel: buqqki  # when pressing the return key cancels an action
 #    continue: åvvdån  # when pressing the return key continues a process
 #    done: fierok      # when pressing the return key finishes a process
-#    emergency: nieđđa # when pressing the return key triggers an emergency call
+#    emergency: nieööa # when pressing the return key triggers an emergency call
 #    next: maŋep           # when pressing the return key takes you to the next field or similar
 #    route: gejnudak         # when pressing the return key finds a route or some direction to go
 #  undo: máhtsa # or "symbol"
