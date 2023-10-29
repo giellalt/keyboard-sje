@@ -70,3 +70,61 @@ Frekvens basert på substantiv og verb i fst
 
 lang-sje/corp/steggo_110514.txt
 cat corp/ |sed 's/\(.\)/\1 /g;'|tr '[:upper:]' '[:lower:]'|tr ' ' '\n'|sort|uniq -c|sort -nr|see
+
+
+
+
+=========
+
+frequency based on J. Wilbur's own (closed) gold corpus of 5 ELAN transcriptions written according to the official Pite Saami orthography and thoroughly spell-checked for adherance to the standard
+ --totals: 5200 tokens; 666 utterances
+
+9072 
+2376 a
+1859 j
+1637 e
+1605 d
+1595 t
+1579 n
+1425 i
+1193 s
+1140 l
+1122 r
+ 944 u
+ 915 v
+ 836 g
+ 818 m
+ 723 á <===
+ 694 å <===
+ 613 h
+ 610 ä <===
+ 599 k
+ 579 o
+ 408 b
+ 313 ,
+ 178 p
+ 167 .
+  96 c <=== only found in Swedish nonce-borrowings and/or code-switches (lots of 'och' copula)
+  89 f
+  81 ŋ <===
+  55 ö <=== only found in Swedish nonce-borrowings and/or code-switches
+  44 '
+  42 y <=== only found in Swedish nonce-borrowings and/or code-switches
+  40 …
+  27 ¶
+  21 ?
+  11 ]
+  11 [
+  10 -
+   8 "
+   4 –
+   4 :
+   3 1
+   2 x <=== only found in Swedish nonce-borrowings and/or code-switches
+   2 4
+   1 ;
+   1 9
+   1 8
+   1 7
+   1 )
+   1 (
