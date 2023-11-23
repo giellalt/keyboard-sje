@@ -113,7 +113,7 @@ macOS:
           a s d f g h j k l ö ä '
         < z x c v b n m , . -
       shift: |
-        ° ! " # $ % & / ( ) = ? `
+        ° ! " # € % & / ( ) = ? `
           Á W E R T Y U I O P Å Ŋ
           A S D F G H J K L Ö Ä *
         > Z X C V B N M ; : _
@@ -123,7 +123,7 @@ macOS:
           A S D F G H J K L Ö Ä '
         < Z X C V B N M , . -
       alt: |
-        ¶ © @ £ € ∞ § | [ ] ≈ ± ´
+        ¶ © @ £ $ ∞ § | [ ] ≈ ± ´
           q w é ˇ ŧ þ ü ï œ π ¨ ~
           â š đ ƒ ǧ ǥ ˘ ǩ ﬁ ø æ ™
         ǯ ž ʒ č ‹ › ‘ ’ ‚ … –
