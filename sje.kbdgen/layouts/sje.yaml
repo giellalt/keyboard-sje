@@ -163,7 +163,6 @@ macOS:
           ◊ ∑     ∆ ∫     ¯ ˘ ¬ º ﬂ Ö Ä '
         ≥ ⁄ \u{0} Ç «     » “ ” „ · —
   space:
-    caps: \u{A0}
     alt: \u{A0}
     alt+shift: \u{A0}
     cmd+alt: \u{A0}
