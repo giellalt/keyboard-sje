@@ -108,30 +108,30 @@ macOS:
   primary:
     layers:
       default: |
-        ' 1 2 3 4 5 6 7 8 9 0 + ´
+        § 1 2 3 4 5 6 7 8 9 0 + ´
           á w e r t y u i o p å ŋ
           a s d f g h j k l ö ä ö
-        ž z č c v b n m , . -
+        < z č c v b n m , . -
       shift: |
-        § ! " # $ % & / ( ) = ? `
+        ° ! " # $ % & / ( ) = ? `
           Á W E R T Y U I O P Å Ŋ
           A S D F G H J K L Ö Ä Ö
-        Ž Z Č C V B N M ; : _
+        > Z Č C V B N M ; : _
       caps: |
-        ' 1 2 3 4 5 6 7 8 9 0 + ´
+        § 1 2 3 4 5 6 7 8 9 0 + ´
           Á W E R T Y U I O P Å Ŋ
           A S D F G H J K L Ö Ä Ö
-        Ž Z Č C V B N M , . -
+        < Z Č C V B N M , . -
       alt: |
         ¶ © ™ £ € ∞ § | [ ] ≈ ± ´
           q w é ˇ ŧ þ ü ï œ π ˙ ~
           â ß đ ƒ ǧ ǥ ˘ ǩ ﬁ ø æ @
-        < ÷ x ç ‹ › ‘ ’ ‚ … –
+        ≤ ÷ x ç ‹ › ‘ ’ ‚ … –
       alt+shift: |
-        § ¡ ® ¥ ¢ ‰ ¶ \ { } ≠ ¿ `
+        • ¡ ® ¥ ¢ ‰ ¶ \ { } ≠ ¿ `
           Q W É √ Ŧ Þ Ü Ï Œ ∏ ˚ ^
           ◊ № Đ ʔ ¯ ˘ ¬ º ﬂ Ø Æ *
-        > ⁄ X Ç « » “ ” „ · —
+        ≥ ⁄ X Ç « » “ ” „ · —
       ctrl: |
         0 1 2 3 4 5 6 7 8 9 0 \u{1F} =
           \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1B} \u{1D}
@@ -179,7 +179,7 @@ macOS:
 
 windows:
   config:
-    locale: sje-Latn-US
+    locale: sje-Latn-SE
   primary:
     layers:
       default: |
