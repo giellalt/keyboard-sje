@@ -110,33 +110,33 @@ macOS:
       default: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
           á w e r t y u i o p å ŋ
-          a s d f g h j k l ö ä ö
-        < z č c v b n m , . -
+          a s d f g h j k l ö ä '
+        < z x c v b n m , . -
       shift: |
         ° ! " # $ % & / ( ) = ? `
           Á W E R T Y U I O P Å Ŋ
-          A S D F G H J K L Ö Ä Ö
-        > Z Č C V B N M ; : _
+          A S D F G H J K L Ö Ä *
+        > Z X C V B N M ; : _
       caps: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
           Á W E R T Y U I O P Å Ŋ
-          A S D F G H J K L Ö Ä Ö
-        < Z Č C V B N M , . -
+          A S D F G H J K L Ö Ä '
+        < Z X C V B N M , . -
       alt: |
-        ¶ © ™ £ € ∞ § | [ ] ≈ ± ´
+        ¶ © @ £ € ∞ § | [ ] ≈ ± ´
           q w é ˇ ŧ þ ü ï œ π ¨ ~
-          â ß đ ƒ ǧ ǥ ˘ ǩ ﬁ ø æ @
-        ≤ ÷ x ç ‹ › ‘ ’ ‚ … –
+          â ß đ ƒ ǧ ǥ ˘ ǩ ﬁ ø æ ™
+        ≤ ÷ ≈ ç ‹ › ‘ ’ ‚ … –
       alt+shift: |
         • ¡ ® ¥ ¢ ‰ ¶ \ { } ≠ ¿ `
           Q W É √ Ŧ Þ Ü Ï Œ ∏ ˚ ^
-          Â ∑ Đ ∫ ¯ ˘ ¬ º ﬂ Ø Æ *
-        ≥ ⁄ X Ç « » “ ” „ · —
+          Â ∑ Đ ∫ ¯ ˘ ¬ º ﬂ Ø Æ ’
+        ≥ ⁄ ˇ Ç « » “ ” „ · —
       alt+caps: |
         ¶ © ™ £ $ ∞ § | [ ] ≈ ± ´
           Q Ω É ® † Þ Ü Ï Œ π ˚ ~
-          Â ß Đ ƒ Ǧ Ǥ ˘ Ǩ - Ö Ä @
-        ≤ ÷ X Ç ‹ › ‘ ’ ‚ … –
+          Â ß Đ ƒ Ǧ Ǥ ˘ Ǩ - Ö Ä ™
+        ≤ ÷ ≈ Ç ‹ › ‘ ’ ‚ … –
       ctrl: |
         0 1 2 3 4 5 6 7 8 9 0 \u{1F} =
           \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1B} \u{1D}
@@ -145,12 +145,12 @@ macOS:
       cmd: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´
           q w e r t y u i o p å ¨
-          a s d f g h j k l ø æ @
+          a s d f g h j k l ö ä @
         < z x c v b n m , . -
       cmd+shift: |
         § ! " # $ % & / ( ) = ? `
           Q W E R T Y U I O P Å ^
-          A S D F G H J K L Ø Æ *
+          A S D F G H J K L Ö Ä *
         > Z X C V B N M ; : _
       cmd+alt: |
         € © ™ £ € ∞ § | [ ] ≈ ± `
@@ -158,9 +158,9 @@ macOS:
            ß ∂ ƒ ¸ ˛ √ ª ﬁ ö ä '
         ≤ ÷ ≈ ç ‹ › ‘ ’ ‚ … –
       cmd+alt+shift: |
-        Ÿ ¡ ®     ¥ ¢     ‰ ¶ \ { } ≠ ¿ \u{0}
+        Ÿ ¡ ®     ¥ ¢     ‰ ¶ \ { } ≠ ¿ ´
           ° ˝     É \u{0} ‡ ˜ Ü ˆ Œ ∏ ˚ ^
-          ◊ ∑     ∆ ∫     ¯ ˘ ¬ º ﬂ Ö Ä \u{0}
+          ◊ ∑     ∆ ∫     ¯ ˘ ¬ º ﬂ Ö Ä '
         ≥ ⁄ \u{0} Ç «     » “ ” „ · —
   space:
     caps: \u{A0}
