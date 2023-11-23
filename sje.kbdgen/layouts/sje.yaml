@@ -110,17 +110,17 @@ macOS:
       default: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´
           á w e r t y u i o p å ŋ
-          a s d f g h j k l ø æ ö
+          a s d f g h j k l ö ä ö
         ž z č c v b n m , . -
       shift: |
         § ! " # $ % & / ( ) = ? `
           Á W E R T Y U I O P Å Ŋ
-          A S D F G H J K L Ø Æ Ö
+          A S D F G H J K L Ö Ä Ö
         Ž Z Č C V B N M ; : _
       caps: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´
           Á W E R T Y U I O P Å Ŋ
-          A S D F G H J K L Ø Æ Ö
+          A S D F G H J K L Ö Ä Ö
         Ž Z Č C V B N M , . -
       alt: |
         ' © ™ £ € ˆ § | [ ] ˝ ± ´
